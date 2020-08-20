@@ -55,6 +55,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scipts\LoadAssests.cs" />
+     <Compile Include="Assets\Scipts\PrintAndHide.cs" />
      <Compile Include="Assets\Scipts\Test.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/bert_/Downloads/Lab Week 4 - Activity/Lab Week 4 - Activity/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
